@@ -8,18 +8,26 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 30vh;
+            height: 100vh;
             margin: 0;
         }
+
+        .image-container {
+            text-align: center; /* Center the image horizontally */
+        }
+
         img {
-            width: 30%;
-            height: 30%;
+            width: 30%; /* Set the desired width */
+            height: auto; /* Maintain aspect ratio */
+            /* Add other styling if needed */
         }
     </style>
 </head>
 <body>
-    <a href="images/logo.png" target="_blank">
-        <img src="images/logo.png" alt="Logo description">
-    </a>
+    <div class="image-container">
+        <a href="images/logo.png" target="_blank">
+            <img src="images/logo.png" alt="Logo description">
+        </a>
+    </div>
 </body>
 </html>
