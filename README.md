@@ -35,20 +35,14 @@
     color: #000000; /* Set text color */
     padding: 0; /* Remove padding */
     border: none; /* Remove border */
-    text-decoration: underline; /* Add underline */
-    cursor: pointer;
-}
-        }
-
-        #language-buttons button:hover {
-            background-color: #333333;
+    
         }
     </style>
 </head>
 <body>
     <img src="images/logo.png" alt="Logo description">
     <div id="language-buttons">
-        <button id="english-button">English</button>
+        <button id="english-button">English Version</button>
         <button id="malay-button">Bahasa Melayu</button>
     </div>
 </body>
