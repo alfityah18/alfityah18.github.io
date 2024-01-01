@@ -34,17 +34,6 @@ h1 {
     font-family: 'Charter Bold', sans-serif;
 }
 
-#language-buttons {
-    text-align: center;
-    margin: 10px;
-}
-
-button {
-    padding: 10px 20px;
-    margin: 5px;
-    cursor: pointer;
-}
-
 em {
     font-family: 'Charter Italic', sans-serif;
 }
@@ -55,7 +44,7 @@ strong em {
 
 <script>
     document.getElementById('english-button').addEventListener('click', function () {
-        window.location.href = 'english.html'; // Replace with your English page URL
+        window.location.href = 'english.html'; // Replace with your English Version page URL
     });
 
     document.getElementById('malay-button').addEventListener('click', function () {
