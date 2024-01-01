@@ -1,6 +1,4 @@
 <html>
-<head>
-    <!-- Your other head content -->
     <style>
     body {
         display: flex;
@@ -16,13 +14,10 @@
         /* Add other styling if needed */
     }
 </style>
-</head>
 <a href="images/logo.png" target="_blank">
     <img src="images/logo.png">
 </a> 
-<body>
-    English 
-    Bahasa Melayu 
-</body>
 </html>
+
+# English 
 
