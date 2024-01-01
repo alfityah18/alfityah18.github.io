@@ -99,7 +99,7 @@ strong em {
 
 #pagination {
     text-align: center;
-    margin: 20px 0;
+    margin: 10px 0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -128,7 +128,7 @@ strong em {
 }
 
 #small-logo {
-    width: 50%;
+    width: 10%;
     display: block;
     margin: 20px auto;
 }
