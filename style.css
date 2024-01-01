@@ -114,6 +114,7 @@ strong em {
     border: none;
     border-radius: 10px;
     cursor: pointer;
+    display: inline-block;
     margin: 5px;
 }
 
