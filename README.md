@@ -16,14 +16,15 @@
         }
 
         img {
-            width: 30%;
-            height: auto;
-            
+            width: 30%; /* Set the desired width */
+            height: auto; /* Maintain aspect ratio */
+            /* Add other styling if needed */
         }
     </style>
 </head>
 <body>
     <div class="image-container">
+        <img src="images/logo.png" alt="Logo description">
     </div>
 </body>
 </html>
