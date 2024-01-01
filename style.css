@@ -56,8 +56,7 @@ strong em {
     border: none; /* Remove border */
     border-radius: 10px; /* Add rounded edges */
     cursor: pointer;
-    margin: 5px 0; /* Adjust the vertical space between buttons */
-    display: block; /* Force buttons to be on separate lines */
-    margin: 0 auto; /* Center the buttons horizontally */
+    margin: 5px; /* Adjust the space between buttons */
+    /* display: block; Remove this line to allow buttons to sit next to each other */
     
 }
