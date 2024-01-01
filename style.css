@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Charter';
+    src: url('fonts/charter-regular.woff2') format('woff2'),
+         url('fonts/charter-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Charter', sans-serif;
+}
+
+/* Additional styles can be added here */
