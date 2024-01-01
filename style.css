@@ -24,10 +24,6 @@
     src: url('font/charter_bold_italic-webfont.woff') format('woff');
     font-weight: bold;
     font-style: italic;
-    
-#alfityah18.github.io a {
-    color: #000000 !important; /* Change to black color */
-}
 
 body {
     font-family: 'Charter Regular', sans-serif;
