@@ -27,15 +27,6 @@
             display: flex;
             flex-direction: column;
             align-items: center;
-        }
-
-        #language-buttons button {
-    font-family: 'Charter', sans-serif;
-    background-color: #000000; /* Black color for background */
-    color: #fff; /* Text color */
-    padding: 10px 20px; /* Adjust padding as needed */
-    border: none; /* Remove border */
-    border-radius: 0; /* Make the button rectangle */
     
         }
     </style>
