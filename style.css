@@ -151,14 +151,9 @@ ul li {
 
 /* Additional styles for centering and button size */
 
-h1, ul {
-    text-align: center; /* Center SPEKTRUM and article titles */
-}
-
-#small-logo {
-    width: 25%; /* Make the logo 50% smaller than the front page */
-    display: block;
-    margin: 20px auto; /* Center the logo */
+#pagination {
+    text-align: center;
+    margin: 20px 0;
 }
 
 .pagination-button, .home-button {
