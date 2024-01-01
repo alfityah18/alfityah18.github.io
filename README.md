@@ -33,11 +33,11 @@
 
     <script>
         document.getElementById('english-button').addEventListener('click', function () {
-            window.location.href = 'english.html'; // Replace with your English Version page URL
+            window.location.href = 'english.html'; // Replace with your English page URL
         });
 
         document.getElementById('malay-button').addEventListener('click', function () {
-            window.location.href = 'malay.html'; // Replace with your Bahasa Melayu page URL
+            window.location.href = 'malay.html'; // Replace with your Bahasa page URL
         });
     </script>
 </body>
