@@ -1,4 +1,5 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,8 +13,8 @@
         }
 
         img {
-            max-width: 30%;
-            max-height: 30%;
+            width: 30%; /* Set the desired width */
+            height: auto; /* Maintain aspect ratio */
             /* Add other styling if needed */
         }
     </style>
