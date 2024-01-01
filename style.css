@@ -49,7 +49,7 @@ strong em {
 
 #language-buttons button {
     font-family: 'Charter Regular', sans-serif;
-    font-size: 8px; /* Adjust the font size as needed */
+    font-size: 8px;
     background-color: #000000;
     color: #fff;
     padding: 10px 20px;
@@ -67,7 +67,7 @@ strong em {
 }
 
 .separator-text {
-  font-family: 'Charter Bold Italic', sans-serif; /* Use Charter Bold Italic for the text */
+  font-family: 'Charter Bold Italic', sans-serif;
   font-weight: bold;
   font-style: italic;
   margin: 0 10px; /* Adjust margin as needed */
