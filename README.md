@@ -15,7 +15,7 @@
 
         h1 {
             font-size: 11px;
-            margin: 20;
+            margin: 0;
         }
 
         img {
