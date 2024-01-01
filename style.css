@@ -187,6 +187,15 @@ ul li {
     padding-bottom: 5px; /* Adjust the space between the title and the border */
 }
 
+ul li a {
+    color: #000000; /* Set your desired color */
+    text-decoration: none; /* Remove the underline */
+}
+
+ul li a:hover {
+    text-decoration: underline; /* Add underline on hover */
+}
+
 /* Additional styles for centering and button size */
 
 #pagination {
