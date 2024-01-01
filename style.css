@@ -26,7 +26,7 @@
     font-style: italic;
     
 #alfityah18.github.io a {
-    color: #000000; /* Change to black color */
+    color: #000000 !important; /* Change to black color */
 }
 
 body {
