@@ -50,12 +50,12 @@ h1 {
 h2.arabic-text {
     font-family: 'Jomhuria', sans-serif;
     /* Other styling properties */
-    font-size: 1.1em; /* Adjust the size as needed for Arabic H2 */
+    font-size: 1.15em; /* Adjust the size as needed for Arabic H2 */
 }
 
 /* Default styling for H2 elements */
 h2 {
-    font-size: 1.1em; /* Adjust the default size as needed */
+    font-size: 1.15em; /* Adjust the default size as needed */
 }
 
 em {
