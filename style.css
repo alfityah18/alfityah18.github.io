@@ -61,31 +61,31 @@ strong em {
 }
 
 .separator {
-  display: flex;
-  align-items: center;
-  margin: 20px 0;
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
 }
 
 .separator-text {
-  font-family: 'Charter Bold Italic', sans-serif;
-  font-weight: bold;
-  font-style: italic;
-  margin: 0 10px;
+    font-family: 'Charter Bold Italic', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    margin: 0 10px;
 }
 
 #social-links {
-  text-align: center;
-  margin: 20px 0;
+    text-align: center;
+    margin: 20px 0;
 }
 
 #social-links a img {
-  width: 25px; /* Adjust the width of the Instagram icon as needed */
-  height: auto; /* Maintain aspect ratio */
+    width: 25px; /* Adjust the width of the Instagram icon as needed */
+    height: auto; /* Maintain aspect ratio */
 }
 
 #social-links a {
-  display: inline-block;
-  margin: 0 10px; /* Adjust margin as needed */
+    display: inline-block;
+    margin: 0 10px; /* Adjust margin as needed */
 }
 
 /* Add these styles for pagination and small logo */
@@ -107,7 +107,7 @@ strong em {
 }
 
 #small-logo {
-    width: 50%; /* Make the logo 50% smaller */
+    width: 25%; /* Make the logo 50% smaller */
     display: block; /* Center the logo */
     margin: 20px auto; /* Adjust margin as needed */
 }
