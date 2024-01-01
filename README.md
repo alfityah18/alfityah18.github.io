@@ -25,7 +25,7 @@
 
         #language-buttons button {
             font-family: 'Charter', sans-serif;
-            background-color: #3498db;
+            background-color: #000000;
             color: #fff;
             padding: 10px 20px;
             border: none;
