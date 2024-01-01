@@ -27,8 +27,8 @@
 <body>
     <img src="images/logo.png">
     <div id="language-buttons">
-        <button id="english-button">English Version</button>
-        <button id="malay-button">Bahasa Melayu</button>
+        <button id="english-button">English</button>
+        <button id="malay-button">Bahasa</button>
     </div>
 
     <script>
