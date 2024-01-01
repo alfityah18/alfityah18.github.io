@@ -26,22 +26,22 @@
         #language-buttons {
             display: flex;
             flex-direction: column;
-            align-items: center; /* Center buttons horizontally */
+            align-items: center;
         }
 
         #language-buttons button {
             font-family: 'Charter', sans-serif;
-            background-color: #000000; /* Black color */
+            background-color: #000000;
             color: #fff;
             padding: 10px 20px;
             border: none;
             border-radius: 10px;
             cursor: pointer;
-            margin-bottom: 10px; /* Add margin between buttons */
+            margin-bottom: 10px;
         }
 
         #language-buttons button:hover {
-            background-color: #333333; /* Darker shade on hover */
+            background-color: #333333;
         }
     </style>
 </head>
