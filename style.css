@@ -167,9 +167,9 @@ ul li {
     margin: 20px 0;
 }
 
-.pagination-button, .home-button {
-    width: 150px; /* Set a fixed width for all buttons */
+.page-button {
     font-family: 'Charter Regular', sans-serif;
+    font-size: 14px;
     background-color: #000000;
     color: #fff;
     padding: 10px 20px;
@@ -177,11 +177,11 @@ ul li {
     border-radius: 10px;
     cursor: pointer;
     margin: 5px;
-    text-align: center;
     display: inline-block;
     text-decoration: none;
+    width: 150px; /* Set a fixed width in pixels */
 }
 
-.pagination-button:hover, .home-button:hover {
+.page-button:hover {
     text-decoration: underline;
 }
