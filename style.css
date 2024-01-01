@@ -140,3 +140,11 @@ ul li {
 .home-button:hover {
     text-decoration: underline;
 }
+
+/* Additional styles for bold and bigger article titles */
+
+ul li {
+    margin-bottom: 10px;
+    font-weight: bold; /* Make the article titles bold */
+    font-size: 18px; /* Adjust the font size as needed */
+}
