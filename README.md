@@ -25,7 +25,7 @@
     </style>
 </head>
 <body>
-    <img src="images/logo.png" alt="Logo description">
+    <img src="images/logo.png">
     <div id="language-buttons">
         <button id="english-button">English Version</button>
         <button id="malay-button">Bahasa Melayu</button>
