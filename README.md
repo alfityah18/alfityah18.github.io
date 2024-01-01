@@ -30,14 +30,14 @@
         }
 
         #language-buttons button {
-            font-family: 'Charter', sans-serif !important; /* Add !important to ensure font priority */
-            background-color: #000000;
-            color: #fff;
-            padding: 10px 20px;
-            border: none;
-            border-radius: 50%;
-            cursor: pointer;
-            margin-bottom: 10px;
+    font-family: 'Charter', sans-serif;
+    background: none; /* Remove background color */
+    color: #000000; /* Set text color */
+    padding: 0; /* Remove padding */
+    border: none; /* Remove border */
+    text-decoration: underline; /* Add underline */
+    cursor: pointer;
+}
         }
 
         #language-buttons button:hover {
