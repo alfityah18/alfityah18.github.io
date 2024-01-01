@@ -35,7 +35,7 @@
             color: #fff;
             padding: 10px 20px;
             border: none;
-            border-radius: 10px;
+            border-radius: 50%;
             cursor: pointer;
             margin-bottom: 10px;
         }
