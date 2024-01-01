@@ -192,14 +192,14 @@ h1 {
 }
 
 @font-face {
-    font-family: 'YourArabicFont';
-    src: url('path/to/your-arabic-font.woff') format('woff');
+    font-family: 'Jomhuria';
+    src: url('font/Jomhuria-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 /* Apply the Arabic font to H2 elements with a specific class */
 h2.arabic-text {
-    font-family: 'YourArabicFont', sans-serif;
+    font-family: 'Jomhuria', sans-serif;
     /* Other styling properties */
 }
