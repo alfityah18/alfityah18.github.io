@@ -33,7 +33,7 @@
 </div>
     <div id="language-buttons">
         <button id="english-button">English</button>
-        <button id="malay-button">Bahasa</button>
+        <button id="bahasa-button">Bahasa</button>
     </div>
     <div id="social-links">
   <a href="https://www.instagram.com/alfityah18" target="_blank">
@@ -46,7 +46,7 @@
             window.location.href = 'english.html';
         });
 
-        document.getElementById('malay-button').addEventListener('click', function () {
+        document.getElementById('bahasa-button').addEventListener('click', function () {
             window.location.href = 'bahasa.html';
         });
     </script>
