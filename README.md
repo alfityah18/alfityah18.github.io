@@ -1,6 +1,9 @@
-<link rel="stylesheet" href="style.css">
+<!DOCTYPE html>
+<html lang="en">
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <style>
         body {
             display: flex;
@@ -8,32 +11,23 @@
             align-items: center;
             height: 100vh;
             margin: 0;
-            flex-direction: column; /* Center items vertically */
-            text-align: center; /* Center text horizontally */
+            flex-direction: column;
+            text-align: center;
         }
 
         h1 {
-            font-size: 11px; /* Adjust the font size as needed */
-            margin: 0; /* Remove default margin */
+            font-size: 11px;
+            margin: 0;
         }
 
         img {
-            width: 30%; /* Set the desired width */
-            max-width: 300px; /* Max width to ensure responsiveness */
+            width: 30%;
+            max-width: 300px;
         }
     </style>
 </head>
 <body>
     <img src="images/logo.png" alt="Logo description">
-</body>
-
-<html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
     <div id="language-buttons">
         <button id="english-button">English</button>
         <button id="malay-button">Bahasa Melayu</button>
