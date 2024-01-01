@@ -47,9 +47,8 @@ strong em {
     margin: 20px 0; /* Adjust the top and bottom margin */
 }
 
-#english-button,
-#malay-button {
-    font-family: 'Charter', sans-serif;
+#language-buttons button {
+    font-family: 'Charter Regular', sans-serif;
     background-color: #000000; /* Black color for background */
     color: #fff; /* Text color */
     padding: 10px 20px; /* Adjust padding as needed */
