@@ -24,3 +24,20 @@
         }
     </style>
 </head>
+<body>
+    <img src="images/logo.png" alt="Logo description">
+    <div id="language-buttons">
+        <button id="english-button">English Version</button>
+        <button id="malay-button">Bahasa Melayu</button>
+    </div>
+
+    <script>
+        document.getElementById('english-button').addEventListener('click', function () {
+            window.location.href = 'english.html'; // Replace with your English Version page URL
+        });
+
+        document.getElementById('malay-button').addEventListener('click', function () {
+            window.location.href = 'malay.html'; // Replace with your Bahasa Melayu page URL
+        });
+    </script>
+</body>
