@@ -13,9 +13,8 @@
         }
 
         img {
-            width: 30%; /* Set the desired width */
-            height: auto; /* Maintain aspect ratio */
-            /* Add other styling if needed */
+            width: 30%;
+            height: auto;
         }
     </style>
 </head>
