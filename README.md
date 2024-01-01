@@ -13,7 +13,7 @@
         }
 
         h1 {
-            font-size: 10px; /* Adjust the font size as needed */
+            font-size: 11px; /* Adjust the font size as needed */
             margin: 0; /* Remove default margin */
         }
 
