@@ -185,3 +185,8 @@ ul li {
 .page-button:hover {
     text-decoration: underline;
 }
+
+/* Change the color of page titles */
+h1 {
+    color: #0266d6;
+}
