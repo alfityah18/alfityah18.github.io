@@ -28,7 +28,7 @@
     <img src="images/logo.png">
     <div class="separator">
   <hr class="separator-line">
-  <span class="separator-text">Your Text Here</span>
+  <span class="separator-text">"And hold firmly to the rope of Allah all together, and do not be divided."</span>
   <hr class="separator-line">
 </div>
     <div id="language-buttons">
