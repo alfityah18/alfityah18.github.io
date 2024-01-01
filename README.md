@@ -22,6 +22,10 @@
             width: 30%;
             max-width: 300px;
         }
+
+        #language-buttons button {
+            font-family: 'Charter', sans-serif;
+        }
     </style>
 </head>
 <body>
