@@ -1,6 +1,5 @@
 <a href="images/logo.png" target="_blank">
     <img src="images/logo.png">
-</a> 
 <style>
     body {
         display: flex;
@@ -16,6 +15,7 @@
         /* Add other styling if needed */
     }
 </style>
+</a> 
 
 ## English 
 ## Bahasa Melayu 
