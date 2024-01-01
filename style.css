@@ -27,7 +27,7 @@
 }
 
 body {
-    font-family: 'Charter', sans-serif; /* Set Charter font for the entire body */
+    font-family: 'Charter Regular', sans-serif;
 }
 
 h1 {
@@ -44,17 +44,16 @@ strong em {
 
 #language-buttons {
     text-align: center;
-    margin: 20px 0;
+    margin: 20px 0; /* Adjust the top and bottom margin */
 }
 
 #language-buttons button {
-    font-family: 'Charter Regular', sans-serif;
-    background-color: #000000;
-    color: #fff;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 10px;
+    font-family: 'Charter', sans-serif;
+    background-color: #000000; /* Black color for background */
+    color: #fff; /* Text color */
+    padding: 10px 20px; /* Adjust padding as needed */
+    border: none; /* Remove border */
+    border-radius: 10px; /* Add rounded edges */
     cursor: pointer;
-    margin: 5px;
-    display: inline-block;
+    margin: 5px 0; /* Adjust the vertical space between buttons */
 }
