@@ -27,8 +27,6 @@
 </head>
 <body>
     <h1>Your Repository Name</h1>
-    <div style="text-align: center;">
-        <img src="images/logo.png" alt="Logo description">
-    </div>
+    <img src="images/logo.png" alt="Logo description">
 </body>
 </html>
