@@ -41,6 +41,9 @@ body {
 
 h1 {
     font-family: 'Charter Bold', sans-serif;
+    color: #0266d6; /* Adjust the color as needed */
+    border-bottom: 0.5px solid #ccc; /* Add a thin border below the h1 element */
+    padding-bottom: 5px; /* Adjust the space between the title and the border */
 }
 
 em {
@@ -173,47 +176,4 @@ ul li {
 /* Additional styles for centering and button size */
 
 #pagination {
-    text-align: center;
-    margin: 10px 0;
-}
-
-.page-button {
-    font-family: 'Charter Regular', sans-serif;
-    font-size: 14px;
-    background-color: #000000;
-    color: #fff;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 10px;
-    cursor: pointer;
-    margin: 5px;
-    display: inline-block;
-    text-decoration: none;
-    width: 150px;
-}
-
-.page-button:hover {
-    text-decoration: underline;
-}
-
-/* Change the color of page titles */
-h1 {
-    color: #0266d6;
-}
-
-@font-face {
-    font-family: 'Jomhuria';
-    src: url('font/Jomhuria-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-/* Apply the Arabic font to H2 elements with a specific class */
-h2.arabic-text {
-    font-family: 'Jomhuria', sans-serif;
-    /* Other styling properties */
-}
-
-h2 {
-    font-size: 1.2em;
-}
+    text-align: center
