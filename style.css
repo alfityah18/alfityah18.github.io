@@ -190,3 +190,16 @@ ul li {
 h1 {
     color: #0266d6;
 }
+
+@font-face {
+    font-family: 'YourArabicFont';
+    src: url('path/to/your-arabic-font.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Apply the Arabic font to H2 elements with a specific class */
+h2.arabic-text {
+    font-family: 'YourArabicFont', sans-serif;
+    /* Other styling properties */
+}
