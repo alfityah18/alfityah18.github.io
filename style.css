@@ -25,3 +25,19 @@
     font-weight: bold;
     font-style: italic;
 }
+
+body {
+    font-family: 'Charter Regular', sans-serif;
+}
+
+h1 {
+    font-family: 'Charter Bold', sans-serif;
+}
+
+em {
+    font-family: 'Charter Italic', sans-serif;
+}
+
+strong em {
+    font-family: 'Charter Bold Italic', sans-serif;
+}
