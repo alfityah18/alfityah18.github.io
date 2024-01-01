@@ -87,3 +87,27 @@ strong em {
   display: inline-block;
   margin: 0 10px; /* Adjust margin as needed */
 }
+
+/* Add these styles for pagination and small logo */
+
+#pagination {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.pagination-button {
+    font-family: 'Charter Regular', sans-serif;
+    background-color: #000000;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+#small-logo {
+    width: 50%; /* Make the logo 50% smaller */
+    display: block; /* Center the logo */
+    margin: 20px auto; /* Adjust margin as needed */
+}
