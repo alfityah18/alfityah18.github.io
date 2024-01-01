@@ -31,10 +31,11 @@
 
         #language-buttons button {
     font-family: 'Charter', sans-serif;
-    background: none; /* Remove background color */
-    color: #000000; /* Set text color */
-    padding: 0; /* Remove padding */
+    background-color: #000000; /* Black color for background */
+    color: #fff; /* Text color */
+    padding: 10px 20px; /* Adjust padding as needed */
     border: none; /* Remove border */
+    border-radius: 0; /* Make the button rectangle */
     
         }
     </style>
