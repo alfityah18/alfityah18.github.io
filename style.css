@@ -203,3 +203,7 @@ h2.arabic-text {
     font-family: 'Jomhuria', sans-serif;
     /* Other styling properties */
 }
+
+h2 {
+    font-size: 1.5em; /* Adjust the size as needed */
+}
