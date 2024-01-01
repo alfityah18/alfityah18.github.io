@@ -42,21 +42,6 @@ strong em {
     font-family: 'Charter Bold Italic', sans-serif;
 }
 
-<script>
-    document.getElementById('english-button').addEventListener('click', function () {
-        window.location.href = 'english.html'; // Replace with your English Version page URL
-    });
-
-    document.getElementById('malay-button').addEventListener('click', function () {
-        window.location.href = 'malay.html'; // Replace with your Bahasa Melayu page URL
-    });
-</script>
-
-#language-buttons {
-    text-align: center;
-    margin: 20px 0; /* Adjust the top and bottom margin */
-}
-
 #language-buttons {
     text-align: center;
     margin: 20px 0; /* Adjust the top and bottom margin */
@@ -71,6 +56,4 @@ strong em {
     border-radius: 10px; /* Add rounded edges */
     cursor: pointer;
     margin: 5px 0; /* Adjust the vertical space between buttons */
-}
-    
 }
