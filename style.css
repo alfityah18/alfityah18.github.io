@@ -196,6 +196,11 @@ ul li a:hover {
     text-decoration: underline; /* Add underline on hover */
 }
 
+#article-image {
+    max-width: 100%; /* Make sure the image doesn't exceed its container width */
+    height: auto;    /* Maintain the aspect ratio */
+}
+
 /* Additional styles for centering and button size */
 
 #pagination {
