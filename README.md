@@ -25,17 +25,16 @@
 
         #language-buttons button {
             font-family: 'Charter', sans-serif;
-            background-color: #3498db; /* Set your desired background color */
-            color: #fff; /* Set text color */
-            padding: 10px 20px; /* Set padding as needed */
+            background-color: #3498db;
+            color: #fff;
+            padding: 10px 20px;
             border: none;
-            border-radius: 10px; /* Set border-radius for rounded corners */
+            border-radius: 10px;
             cursor: pointer;
-            transition: background-color 0.3s; /* Add a smooth transition for hover effect */
         }
 
         #language-buttons button:hover {
-            background-color: #2980b9; /* Change background color on hover */
+            background-color: #2980b9;
         }
     </style>
 </head>
