@@ -36,8 +36,8 @@
         <button id="malay-button">Bahasa</button>
     </div>
     <div id="social-links">
-  <a href="https://www.instagram.com/your_instagram_username" target="_blank">
-    <img src="path/to/your/instagram-icon.png" alt="Instagram Icon">
+  <a href="https://www.instagram.com/alfityah18" target="_blank">
+    <img src="images/insta.png" alt="Instagram Icon">
   </a>
 </div>
 
