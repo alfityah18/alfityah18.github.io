@@ -21,12 +21,6 @@
         img {
             width: 30%;
             max-width: 300px;
-        }
-
-        #language-buttons {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
     
         }
     </style>
