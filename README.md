@@ -30,7 +30,7 @@
         }
 
         #language-buttons button {
-            font-family: 'Charter', sans-serif;
+            font-family: 'Charter', sans-serif !important; /* Add !important to ensure font priority */
             background-color: #000000;
             color: #fff;
             padding: 10px 20px;
