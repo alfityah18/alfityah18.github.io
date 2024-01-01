@@ -24,6 +24,9 @@
     src: url('font/charter_bold_italic-webfont.woff') format('woff');
     font-weight: bold;
     font-style: italic;
+    
+a {
+    color: #000000; /* Change to black color */
 }
 
 body {
