@@ -11,10 +11,9 @@
             height: 30vh;
             margin: 0;
         }
-
         img {
             width: 30%;
-            height: auto;
+            height: 30%;
         }
     </style>
 </head>
