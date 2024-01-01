@@ -12,8 +12,8 @@
         }
 
         img {
-            max-width: 100%;
-            max-height: 100%;
+            max-width: 30%;
+            max-height: 30%;
             /* Add other styling if needed */
         }
     </style>
