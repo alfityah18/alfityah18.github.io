@@ -57,6 +57,9 @@ strong em {
     border-radius: 10px; /* Add rounded edges */
     cursor: pointer;
     margin: 5px; /* Adjust the space between buttons */
-    /* display: block; Remove this line to allow buttons to sit next to each other */
-    
+}
+
+#malay-button {
+    margin-left: 10px; /* Adjust the space between buttons */
+
 }
