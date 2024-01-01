@@ -21,14 +21,6 @@
         img {
             width: 30%;
             max-width: 300px;
-    
         }
     </style>
 </head>
-<body>
-    <img src="images/logo.png" alt="Logo description">
-    <div id="language-buttons">
-        <button id="english-button">English Version</button>
-        <button id="malay-button">Bahasa Melayu</button>
-    </div>
-</body>
