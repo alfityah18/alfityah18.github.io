@@ -17,11 +17,12 @@
     }
 </style>
 </head>
-<body>
-    <!-- Your HTML content here -->
-</body>
 <a href="images/logo.png" target="_blank">
     <img src="images/logo.png">
 </a> 
+<body>
+    English 
+    Bahasa Melayu 
+</body>
 </html>
 
