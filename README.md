@@ -24,9 +24,6 @@
 </head>
 <body>
     <div class="image-container">
-        <a href="images/logo.png" target="_blank">
-            <img src="images/logo.png" alt="Logo description">
-        </a>
     </div>
 </body>
 </html>
