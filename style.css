@@ -55,7 +55,8 @@ h2.arabic-text {
 
 /* Default styling for H2 elements */
 h2 {
-    font-size: 1.15em; /* Adjust the default size as needed */
+    font-size: 1.15em; /* Adjust the size as needed */
+    margin-bottom: 5px; /* Reduce the bottom margin between H2 elements */
 }
 
 em {
