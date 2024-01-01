@@ -26,6 +26,11 @@
 </head>
 <body>
     <img src="images/logo.png">
+    <div class="separator">
+  <hr class="separator-line">
+  <span class="separator-text">Your Text Here</span>
+  <hr class="separator-line">
+</div>
     <div id="language-buttons">
         <button id="english-button">English</button>
         <button id="malay-button">Bahasa</button>
