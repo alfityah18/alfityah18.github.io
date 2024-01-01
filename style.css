@@ -111,3 +111,32 @@ strong em {
     display: block; /* Center the logo */
     margin: 20px auto; /* Adjust margin as needed */
 }
+
+/* Additional styles for numbering, home button, and small logo */
+
+ul {
+    list-style-type: none; /* Remove default bullet points */
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px; /* Adjust spacing between numbered list items */
+}
+
+.home-button {
+    display: block;
+    text-align: center;
+    margin: 20px auto; /* Adjust margin as needed */
+    font-family: 'Charter Regular', sans-serif;
+    background-color: #000000;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.home-button:hover {
+    text-decoration: underline;
+}
