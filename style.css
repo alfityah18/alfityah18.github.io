@@ -35,8 +35,8 @@ body {
     height: 100vh;
     margin: 0;
     text-align: center;
-    margin-left: 10px; /* Add left margin */
-    margin-right: 10px; /* Add right margin */
+    margin-left: 12px; /* Add left margin */
+    margin-right: 12px; /* Add right margin */
 }
 
 h1 {
@@ -130,7 +130,7 @@ strong em {
 }
 
 #small-logo {
-    width: 10%;
+    width: 8%;
     display: block;
     margin: 10px auto;
 }
