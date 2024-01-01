@@ -72,3 +72,18 @@ strong em {
   font-style: italic;
   margin: 0 10px;
 }
+
+#social-links {
+  text-align: center;
+  margin: 20px 0;
+}
+
+#social-links a img {
+  width: 30px; /* Adjust the width of the Instagram icon as needed */
+  height: auto; /* Maintain aspect ratio */
+}
+
+#social-links a {
+  display: inline-block;
+  margin: 0 10px; /* Adjust margin as needed */
+}
