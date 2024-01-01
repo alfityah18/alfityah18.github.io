@@ -64,14 +64,9 @@ strong em {
   margin: 20px 0;
 }
 
-.separator-line {
-  flex-grow: 1;
-  height: 1px;
-  background-color: #000; /* Adjust line color as needed */
-  margin: 0 10px; /* Adjust margin as needed */
-}
-
 .separator-text {
-  font-family: 'Charter Regular', sans-serif; /* Use Charter Regular for the text */
+  font-family: 'Charter Bold Italic', sans-serif; /* Use Charter Bold Italic for the text */
+  font-weight: bold;
+  font-style: italic;
   margin: 0 10px; /* Adjust margin as needed */
 }
