@@ -35,6 +35,11 @@
         <button id="english-button">English</button>
         <button id="malay-button">Bahasa</button>
     </div>
+    <div id="social-links">
+  <a href="https://www.instagram.com/your_instagram_username" target="_blank">
+    <img src="path/to/your/instagram-icon.png" alt="Instagram Icon">
+  </a>
+</div>
 
     <script>
         document.getElementById('english-button').addEventListener('click', function () {
