@@ -47,16 +47,6 @@ strong em {
     margin: 20px 0; /* Adjust the top and bottom margin */
 }
 
-#language-buttons {
-    text-align: center;
-    margin: 20px 0; /* Adjust the top and bottom margin */
-}
-
-#language-buttons {
-    text-align: center;
-    margin: 20px 0; /* Adjust the top and bottom margin */
-}
-
 #english-button,
 #malay-button {
     font-family: 'Charter', sans-serif;
@@ -68,5 +58,6 @@ strong em {
     cursor: pointer;
     margin: 5px 0; /* Adjust the vertical space between buttons */
     display: block; /* Force buttons to be on separate lines */
-
+    margin: 0 auto; /* Center the buttons horizontally */
+    
 }
