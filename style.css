@@ -1,3 +1,14 @@
+body {
+    font-family: 'Charter Regular', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+}
+
 @font-face {
     font-family: 'Charter Regular';
     src: url('font/charter_regular-webfont.woff') format('woff');
