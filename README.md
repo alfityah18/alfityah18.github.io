@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+<<html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -26,7 +25,6 @@
     </style>
 </head>
 <body>
-    <h1>Your Repository Name</h1>
     <img src="images/logo.png" alt="Logo description">
 </body>
 </html>
