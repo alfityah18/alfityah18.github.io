@@ -24,7 +24,6 @@
             <img src="images/pd.png" alt="Additional Image">
             <p class="additional-text">Public Domain. Anything in this public domain is freely usable by anyone without obtaining permission and without citing the original author, but no one can ever own this.</p>
         </div>
-    </div>
 
     <script>
         // Your existing script...
