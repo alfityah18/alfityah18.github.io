@@ -198,13 +198,13 @@ ul li a:hover {
 }
 
 .additional-content img {
-    width: 20px; /* Adjust the width of the additional image */
+    width: 2px; /* Adjust the width of the additional image */
     height: auto;
 }
 
 .additional-text {
     font-family: 'Charter Regular', sans-serif;
-    font-size: 2px; /* Adjust the font size as needed */
+    font-size: 10px; /* Adjust the font size as needed */
     margin-top: 5px; /* Adjust the margin as needed */
 }
 
