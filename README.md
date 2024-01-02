@@ -26,6 +26,12 @@
     </div> <!-- Closing div for social-links -->
 
     <script>
-        // Your existing script...
+        document.getElementById('english-button').addEventListener('click', function () {
+    window.location.href = 'english.html';
+});
+
+document.getElementById('bahasa-button').addEventListener('click', function () {
+    window.location.href = 'bahasa.html';
+});
     </script>
 </body>
