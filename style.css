@@ -104,11 +104,6 @@ strong em {
     margin: 20px 0;
 }
 
-.separator-line {
-    width: 100%;
-    border: 0.5px solid #000; /* Adjust the color as needed */
-}
-
 #social-links {
     text-align: center;
     margin: 20px 0;
