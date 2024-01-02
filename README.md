@@ -4,7 +4,6 @@
     <link rel="stylesheet" href="style.css">
 </head>
 
-<body>
 <body class="front-page">
     <img src="images/logo.png" alt="Logo description">
     <div class="separator">
