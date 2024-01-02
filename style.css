@@ -250,5 +250,6 @@ body.front-page {
 body.front-page img {
     width: 30%;
     max-width: 300px;
+    margin-top: 5px;
     margin-bottom: 15px;
 }
