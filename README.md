@@ -20,7 +20,7 @@
             <img src="images/insta.png" alt="Instagram Icon">
         </a>
         <div class="additional-content">
-            <img src="images/pd.png" alt="Additional Image">
+            <img src="images/pd.png" alt="additional-image">
             <p class="additional-text">Public Domain. Anything in this public domain is freely usable by anyone without obtaining permission and without citing the original author, but no one can ever own this.</p>
         </div>
     </div> <!-- Closing div for social-links -->
