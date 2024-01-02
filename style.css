@@ -198,8 +198,9 @@ ul li a:hover {
 }
 
 .additional-content img {
-    width: 2px; /* Adjust the width of the additional image */
-    height: auto;
+    width: 20%;  /* Adjust the width percentage as needed */
+    max-width: 20px;  /* Adjust the maximum width as needed */
+    height: auto;  /* Maintain the aspect ratio */
 }
 
 .additional-text {
