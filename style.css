@@ -209,3 +209,19 @@ footer {
     font-size: 10px; /* Adjust the font size as needed */
     margin-top: 5px; /* Adjust the margin as needed */
 }
+
+/* Specific styles for the front page */
+body.front-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    flex-direction: column;
+    text-align: center;
+}
+
+body.front-page img {
+    width: 30%;
+    max-width: 300px;
+}
