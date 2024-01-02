@@ -195,7 +195,7 @@ ul li a:hover {
     text-decoration: underline;
 }
 
-#article-image {
+.resizable-image {
     max-width: 50%;
     height: auto;
 }
