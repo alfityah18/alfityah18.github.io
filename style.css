@@ -231,7 +231,7 @@ ul li a:hover {
 }
 
 #additional-image {
-    width: 5%; /* Adjust the width of the additional image */
+    width: 75px; /* Adjust the width of the additional image */
     height: auto;
 }
 
