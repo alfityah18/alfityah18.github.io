@@ -95,16 +95,6 @@ strong em {
     margin: 0;
 }
 
-/* Add these styles for the separator */
-.separator {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    margin: 20px 0;
-    line-height: 1;
-}
-
 #social-links {
     text-align: center;
     margin: 20px 0;
