@@ -226,13 +226,13 @@ ul li a:hover {
 }
 
 #additional-image {
-    width: 20px; /* Adjust the width of the additional image */
+    width: 22px; /* Adjust the width of the additional image */
     height: auto;
 }
 
 .additional-text {
     font-family: 'Charter Regular', sans-serif;
-    font-size: 12px; /* Adjust the font size as needed */
+    font-size: 13px; /* Adjust the font size as needed */
     margin-top: 5px; /* Adjust the margin as needed */
 }
 
