@@ -222,7 +222,7 @@ ul li a:hover {
     text-align: center;
 }
 
-/* Add these styles for the new content */
+/* Additional styles for the new content */
 .additional-content {
     display: flex;
     flex-direction: column;
@@ -230,9 +230,9 @@ ul li a:hover {
     margin-top: 10px; /* Adjust the margin as needed */
 }
 
-.additional-image {
-    width: 5%;  /* Set the width to 25% of the original size */
-    height: auto;  /* Maintain the aspect ratio */
+#additional-image {
+    width: 5%; /* Adjust the width of the additional image */
+    height: auto;
 }
 
 .additional-text {
