@@ -28,38 +28,12 @@
 <button id="nextButton">Next &#8594;</button>
 
 <script>
-    // ... (your existing script)
+        document.getElementById('english-button').addEventListener('click', function () {
+    window.location.href = 'english.html';
+});
 
-    // Function to update Previous and Next button text based on language
-    function updateButtonLabels() {
-        const prevButton = document.getElementById('prevButton');
-        const nextButton = document.getElementById('nextButton');
-
-        // Use Unicode arrow characters based on the current language
-        const prevArrow = currentLanguage === 'english' ? '&#8592;' : '&#8592;';
-        const nextArrow = currentLanguage === 'english' ? '&#8594;' : '&#8594;';
-
-        prevButton.innerHTML = `${prevArrow} Previous`;
-        nextButton.innerHTML = `Next ${nextArrow}`;
-    }
-
-    // Event listener for language buttons
-    document.getElementById('english-button').addEventListener('click', function () {
-        currentLanguage = 'english';
-        currentPage = 1; // Reset to first page when changing language
-        updateButtonLabels(); // Update button labels
-        displayArticles();
-    });
-
-    document.getElementById('bahasa-button').addEventListener('click', function () {
-        currentLanguage = 'bahasa';
-        currentPage = 1; // Reset to first page when changing language
-        updateButtonLabels(); // Update button labels
-        displayArticles();
-    });
-
-    // Initial display on page load
-    displayArticles();
-    updateButtonLabels(); // Update button labels
+document.getElementById('bahasa-button').addEventListener('click', function () {
+    window.location.href = 'bahasa.html';
+});
 </script>
 </body>
