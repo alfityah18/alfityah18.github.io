@@ -196,13 +196,13 @@ ul li a:hover {
 }
 
 #article-image {
-    max-width: 100%;
+    max-width: 50%;
     height: auto;
 }
 
 /* Add these styles for the article text */
 #article-text {
-    font-size: 21px;
+    font-size: 23px;
     line-height: 1.6;
 }
 
