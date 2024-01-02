@@ -2,44 +2,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            flex-direction: column;
-            text-align: center;
-        }
-
-        h1 {
-            font-size: 11px;
-            margin: 0;
-        }
-
-        img {
-            width: 30%;
-            max-width: 300px;
-        }
-    </style>
 </head>
+
 <body>
     <img src="images/logo.png">
     <div class="separator">
-  <hr class="separator-line">
-  <span class="separator-text">"And hold firmly to the rope of Allah all together, and do not be divided."</span>
-  <hr class="separator-line">
-</div>
+        <hr class="separator-line">
+        <span class="separator-text">"And hold firmly to the rope of Allah all together, and do not be divided."</span>
+        <hr class="separator-line">
+    </div>
     <div id="language-buttons">
         <button id="english-button">English</button>
         <button id="bahasa-button">Bahasa</button>
     </div>
     <div id="social-links">
-  <a href="https://www.instagram.com/alfityah18" target="_blank">
-    <img src="images/insta.png" alt="Instagram Icon">
-  </a>
-</div>
+        <a href="https://www.instagram.com/alfityah18" target="_blank">
+            <img src="images/insta.png" alt="Instagram Icon">
+        </a>
+    </div>
 
     <script>
         document.getElementById('english-button').addEventListener('click', function () {
