@@ -196,8 +196,9 @@ ul li a:hover {
 }
 
 .resizable-image {
-    max-width: 70%;
+    max-width: 100%;
     height: auto;
+    margin-top: 5px;
 }
 
 /* Add these styles for the article text */
