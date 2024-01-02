@@ -4,8 +4,8 @@
     <link rel="stylesheet" href="style.css">
 </head>
 
-<!-- Inside the body tag of your HTML -->
 <body>
+<body class="front-page">
     <img src="images/logo.png" alt="Logo description">
     <div class="separator">
         <hr class="separator-line">
@@ -31,8 +31,6 @@
         });
     </script>
 </body>
-
-<!-- Your existing HTML content -->
 
 <!-- Add a footer section for the new image and text -->
 <footer>
