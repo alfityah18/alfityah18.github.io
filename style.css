@@ -6,95 +6,27 @@ body {
     margin: 0;
     flex-direction: column;
     text-align: center;
-}
-
-h1 {
-    font-size: 11px;
-    margin: 0;
-}
-
-img {
-    width: 30%;
-    max-width: 300px;
-}
-
-.separator {
-    margin: 20px 0;
-}
-
-.separator-line {
-    width: 100%;
-    border: 0.5px solid #000; /* Adjust the color as needed */
-}
-
-.separator-text {
-    margin: 0 10px;
-}
-
-.article-content {
-    text-align: left;
-    text-justify: inter-word;
-}
-
-@font-face {
-    font-family: 'Charter Regular';
-    src: url('font/charter_regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Charter Bold';
-    src: url('font/charter_bold-webfont.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Charter Italic';
-    src: url('font/charter_italic-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Charter Bold Italic';
-    src: url('font/charter_bold_italic-webfont.woff') format('woff');
-    font-weight: bold;
-    font-style: italic;
-}
-
-body {
-    font-family: 'Charter Regular', sans-serif;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    margin: 0;
-    text-align: center;
     margin-left: 15px; /* Add left margin */
     margin-right: 15px; /* Add right margin */
 }
 
 h1 {
     font-family: 'Charter Bold', sans-serif;
-    color: #0266d6; /* Adjust the color as needed */
-    border-bottom: 0.5px solid #ccc; /* Add a thin border below the h1 element */
-    padding-bottom: 5px; /* Adjust the space between the title and the border */
+    color: #0266d6;
+    border-bottom: 0.5px solid #ccc;
+    padding-bottom: 5px;
 }
 
 /* Apply the Arabic font to H2 elements with a specific class */
 h2.arabic-text {
     font-family: 'Jomhuria', sans-serif;
-    /* Other styling properties */
-    font-size: 1.15em; /* Adjust the size as needed for Arabic H2 */
+    font-size: 1.15em;
 }
 
 /* Default styling for H2 elements */
 h2 {
-    font-size: 1.15em; /* Adjust the size as needed */
-    margin-bottom: 5px; /* Reduce the bottom margin between H2 elements */
+    font-size: 1.15em;
+    margin-bottom: 5px;
 }
 
 em {
@@ -194,7 +126,7 @@ strong em {
 ul {
     list-style-type: none;
     padding: 0;
-    margin bottom: 5px;
+    margin-bottom: 5px;
 }
 
 .home-button {
@@ -221,37 +153,38 @@ ul li {
     margin-bottom: 5px;
     font-weight: bold;
     font-size: 20px;
-    border-bottom: 0.5px solid #ccc; /* Add a thin border below each list item */
-    padding-bottom: 5px; /* Adjust the space between the title and the border */
+    border-bottom: 0.5px solid #ccc;
+    padding-bottom: 5px;
 }
 
 ul li a {
-    color: #000000; /* Set your desired color */
-    text-decoration: none; /* Remove the underline */
+    color: #000000;
+    text-decoration: none;
 }
 
 ul li a:hover {
-    text-decoration: underline; /* Add underline on hover */
+    text-decoration: underline;
 }
 
 #article-image {
-    max-width: 100%; /* Make sure the image doesn't exceed its container width */
-    height: auto;    /* Maintain the aspect ratio */
+    max-width: 100%;
+    height: auto;
 }
 
 /* Add these styles for the article text */
 #article-text {
-    font-size: 21px; /* Adjust the font size as needed */
-    line-height: 1.6; /* Adjust the line height for better readability */
+    font-size: 21px;
+    line-height: 1.6;
 }
 
 /* Additional styles for paragraph spacing and indentation */
 #article-text p {
-    margin-bottom: 10px; /* Add space between paragraphs */
-    text-indent: 15px; /* Add an indent at the start of each paragraph */
+    margin-bottom: 10px;
+    text-indent: 15px;
 }
 
 /* Additional styles for centering and button size */
 
 #pagination {
-    text-align: center
+    text-align: center;
+}
