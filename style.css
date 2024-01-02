@@ -188,3 +188,22 @@ ul li a:hover {
 #pagination {
     text-align: center;
 }
+
+/* Add these styles for the new content */
+.additional-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px; /* Adjust the margin as needed */
+}
+
+.additional-content img {
+    width: 20px; /* Adjust the width of the additional image */
+    height: auto;
+}
+
+.additional-text {
+    font-family: 'Charter Regular', sans-serif;
+    font-size: 10px; /* Adjust the font size as needed */
+    margin-top: 5px; /* Adjust the margin as needed */
+}
