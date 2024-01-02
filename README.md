@@ -23,10 +23,6 @@
         </div>
     </div> <!-- Closing div for social-links -->
 
-    <!-- Previous and Next buttons with arrow symbols -->
-<button id="prevButton">&#8592; Previous</button>
-<button id="nextButton">Next &#8594;</button>
-
 <script>
         document.getElementById('english-button').addEventListener('click', function () {
     window.location.href = 'english.html';
