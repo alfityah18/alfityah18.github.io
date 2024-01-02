@@ -22,7 +22,7 @@
         </a>
         <!-- New image and text below Instagram logo -->
         <div class="additional-content">
-            <img src="images/your_additional_image.png" alt="Additional Image">
+            <img src="images/pd.png" alt="Additional Image">
             <p class="additional-text">Charter Regular</p>
         </div>
     </div>
