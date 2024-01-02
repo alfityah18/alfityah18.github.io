@@ -19,7 +19,7 @@
         <a href="https://www.instagram.com/alfityah18" target="_blank">
             <img src="images/insta.png" alt="Instagram Icon">
         </a>
-        <div class="additional-content">
+        <div class="additional-image">
             <img src="images/pd.png" alt="additional-image">
             <p class="additional-text">Public Domain. Anything in this public domain is freely usable by anyone without obtaining permission and without citing the original author, but no one can ever own this.</p>
         </div>
