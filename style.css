@@ -199,10 +199,6 @@ ul li a:hover {
     text-align: center; /* Center the image */
     overflow: hidden;
     max-width: 100%;
-}
-
-.resizable-image {
-    max-width: 100%;
     max-height: 100%;
 }
 
