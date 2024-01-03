@@ -62,6 +62,13 @@ h2 {
     margin-bottom: 5px;
 }
 
+h3 {
+    font-size: 21px;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-bottom: 5px;
+}
+
 em {
     font-family: 'Charter Italic', sans-serif;
 }
