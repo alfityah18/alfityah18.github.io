@@ -197,7 +197,8 @@ ul li a:hover {
 
 .article-content {
     font-size: 18px !important;
-    line-height: 2.0 !important;
+    line-height: 1.6 !important;
+    margin-bottom: 10px
 }
 
 /* Additional styles for centering and button size */
