@@ -195,14 +195,12 @@ ul li a:hover {
     text-decoration: underline;
 }
 
-/* Add these styles for the article text */
-#article-text {
-    font-size: 25px;
-    line-height: 1.6;
+#article {
+    font-size: 50px;
+    line-height: 1.5;
 }
 
-/* Additional styles for paragraph spacing and indentation */
-#article-text p {
+#article p {
     margin-bottom: 10px;
     text-indent: 15px;
 }
