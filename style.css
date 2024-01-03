@@ -199,6 +199,7 @@ ul li a:hover {
     text-align: center; /* Center the image */
     overflow: hidden;
     max-width: 100%;
+    height: auto;
 }
 
 /* Add these styles for the article text */
