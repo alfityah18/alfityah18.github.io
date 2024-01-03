@@ -195,14 +195,9 @@ ul li a:hover {
     text-decoration: underline;
 }
 
-#article {
-    font-size: 50px;
+body #article {
+    font-size: 30px;
     line-height: 1.5;
-}
-
-#article p {
-    margin-bottom: 10px;
-    text-indent: 15px;
 }
 
 /* Additional styles for centering and button size */
