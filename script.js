@@ -6,7 +6,7 @@ function toggleMode() {
     // Update button text and symbol
     const modeButton = document.getElementById('mode-button');
     const isNightMode = body.classList.contains('night-mode');
-    modeButton.innerHTML = isNightMode ? 'ð Day' : 'ð Night';
+    modeButton.innerHTML = isNightMode ? 'ð' : 'ð';
 }
 
 // Event listener for the mode button
