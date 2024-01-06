@@ -314,11 +314,11 @@ body.night-mode {
 }
 
 input:checked + .slider {
-    background-color: #2196F3;
+    background-color: #444;
 }
 
 input:focus + .slider {
-    box-shadow: 0 0 1px #2196F3;
+    box-shadow: 0 0 1px #444;
 }
 
 input:checked + .slider:before {
