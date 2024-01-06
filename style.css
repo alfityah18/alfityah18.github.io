@@ -348,3 +348,11 @@ input:checked + .slider:before {
 #mode-label {
     margin-left: 10px;
 }
+
+/* Top border style */
+body.night-mode::before {
+    content: "";
+    display: block;
+    height: 10px; /* Adjust the height as needed */
+    background-color: #222; /* Night mode background color */
+}
