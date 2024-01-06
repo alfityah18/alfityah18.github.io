@@ -275,6 +275,10 @@ body.night-mode {
     color: #fff;
 }
 
+body.night-mode .article-image {
+    background-color: #fff;
+}
+
 /* Toggle switch styles */
 .switch {
     position: relative;
