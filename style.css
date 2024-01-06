@@ -353,6 +353,6 @@ input:checked + .slider:before {
 body.night-mode::before {
     content: "";
     display: block;
-    height: 15px; /* Adjust the height as needed */
+    height: 20px; /* Adjust the height as needed */
     background-color: #222; /* Night mode background color */
 }
