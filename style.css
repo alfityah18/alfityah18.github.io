@@ -275,6 +275,12 @@ body.night-mode {
     color: #fff;
 }
 
+/* Override styles for the "Back" button in night mode */
+body.night-mode #pagination a.home-button {
+    background-color: #fff;
+    color: #000;
+}
+
 /* Toggle switch styles */
 .switch {
     position: relative;
