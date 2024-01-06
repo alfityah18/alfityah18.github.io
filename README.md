@@ -31,5 +31,15 @@
 document.getElementById('bahasa-button').addEventListener('click', function () {
     window.location.href = 'bahasa.html';
 });
-</script>
+</script> 
+
+<div id="night-mode-toggle">
+        <label class="switch">
+            <input type="checkbox" id="mode-switch">
+            <span class="slider"></span>
+        </label>
+        <span id="mode-label">Night Mode</span>
+    </div>
+
+    <script src="script.js"></script>
 </body>
