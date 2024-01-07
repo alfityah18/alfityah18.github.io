@@ -363,9 +363,9 @@ body.night-mode::before {
     max-width: none;
     max-height: none;
     position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    top: 120%;
+    left: 120%;
+    transform: translate(-120%, -120%);
     z-index: 1000;
     background: rgba(0, 0, 0, 0.8); /* semi-transparent black background */
     object-fit: contain;
