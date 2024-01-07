@@ -357,8 +357,16 @@ body.night-mode::before {
     background-color: #222; /* Night mode background color */
 }
 
-.enlargeable-image img.enlarged {
-    max-width: 150vw;
-    max-height: 150vh;
-    object-fit: contain;
+.enlargeable-image {
+  cursor: pointer;
+}
+
+.enlarged .article-image img {
+  max-width: 100vw;
+  max-height: 100vh;
+  object-fit: contain;
+}
+
+.enlarged #enlarged-overlay {
+  display: block;
 }
