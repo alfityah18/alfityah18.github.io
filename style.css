@@ -357,7 +357,7 @@ body.night-mode::before {
     background-color: #222; /* Night mode background color */
 }
 
-  .enlargeable-image.enlarged {
+  .enlarged {
     max-width: 100%;
     width: 100vw; /* 100% of viewport width */
     height: 100vh; /* 100% of viewport height */
