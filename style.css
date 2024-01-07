@@ -358,10 +358,8 @@ body.night-mode::before {
 }
 
 .enlargeable-image.enlarged {
-    width: auto;
-    height: auto;
-    max-width: none;
-    max-height: none;
+    width: 100vw;
+    height: 100vh;
     position: fixed;
     top: 0;
     left: 0;
@@ -369,6 +367,6 @@ body.night-mode::before {
     bottom: 0;
     margin: auto;
     z-index: 1000;
+    overflow: auto;
     background: rgba(0, 0, 0, 0.8); /* semi-transparent black background */
-    object-fit: contain;
 }
