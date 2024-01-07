@@ -4,12 +4,12 @@ document.getElementById('mode-switch').addEventListener('change', function () {
 });
 
 document.addEventListener('DOMContentLoaded', function () {
-    console.log("DOM Loaded");
-    var image = document.querySelector('.enlargeable-image');
-    var overlay = document.getElementById('enlarged-overlay');
+  // Get the image element
+  var image = document.querySelector('.enlargeable-image img');
 
-    image.addEventListener('click', function () {
-        console.log("Image Clicked");
-        overlay.classList.toggle('enlarged');
-    });
+  // Add a click event listener to the image
+  image.addEventListener('click', function () {
+    // Toggle the 'enlarged' class on the image
+    image.classList.toggle('enlarged');
+  });
 });
