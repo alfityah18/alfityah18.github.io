@@ -360,5 +360,5 @@ body.night-mode::before {
 .enlargeable-image img.enlarged {
     max-width: 150vw;
     max-height: 150vh;
-    object-fit: cover;
+    object-fit: contain;
 }
