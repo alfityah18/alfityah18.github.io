@@ -4,13 +4,12 @@ document.getElementById('mode-switch').addEventListener('change', function () {
 });
 
 document.addEventListener('DOMContentLoaded', function () {
-  // Get the image and overlay elements
-  var image = document.querySelector('.enlargeable-image');
-  var overlay = document.getElementById('enlarged-overlay');
+    console.log("DOM Loaded");
+    var image = document.querySelector('.enlargeable-image');
+    var overlay = document.getElementById('enlarged-overlay');
 
-  // Add a click event listener to the image
-  image.addEventListener('click', function () {
-    // Toggle the 'enlarged' class on the overlay
-    overlay.classList.toggle('enlarged');
-  });
+    image.addEventListener('click', function () {
+        console.log("Image Clicked");
+        overlay.classList.toggle('enlarged');
+    });
 });
