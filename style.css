@@ -367,4 +367,5 @@ body.night-mode::before {
     left: 0;
     z-index: 1000;
     background: rgba(0, 0, 0, 0.8); /* semi-transparent black background */
-  }
+    box-sizing: content-box;
+}
