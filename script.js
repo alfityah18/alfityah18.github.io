@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // Add a click event listener to the image
   image.addEventListener('click', function () {
-    // Toggle the 'enlarged' class on the image
-    image.classList.toggle('enlarged');
+    // Add the 'enlarged' class to the image
+    image.classList.add('enlarged');
   });
 });
