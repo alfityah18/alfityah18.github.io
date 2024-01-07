@@ -358,8 +358,8 @@ body.night-mode::before {
 }
 
 .enlargeable-image.enlarged {
-    width: 100vw;
-    height: 100vh;
+    width: 150vw;
+    height: 150vh;
     max-width: none;
     max-height: none;
     position: fixed;
