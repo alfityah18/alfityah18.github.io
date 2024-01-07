@@ -5,7 +5,7 @@ var audio = new Audio();
 
 // Set different audio sources based on the current page
 switch (currentPage) {
-    case '/Eng01.html':
+    case 'Eng01.html':
         audio.src = 'audio/page1-audio.mp3';
         break;
     case '/page2.html':
