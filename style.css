@@ -356,3 +356,14 @@ body.night-mode::before {
     height: 20px; /* Adjust the height as needed */
     background-color: #222; /* Night mode background color */
 }
+
+  .enlargeable-image.enlarged {
+    max-width: 100%;
+    width: 100vw; /* 100% of viewport width */
+    height: 100vh; /* 100% of viewport height */
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    background: rgba(0, 0, 0, 0.8); /* semi-transparent black background */
+  }
