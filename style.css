@@ -379,5 +379,5 @@ body.night-mode::before {
 
 /* Adjust the icon size if needed */
 #audio-toggle #audio-icon {
-    font-size: 24px;
+    font-size: 18px;
 }
