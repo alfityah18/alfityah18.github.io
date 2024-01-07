@@ -362,8 +362,8 @@ body.night-mode::before {
 }
 
 .enlarged .article-image img {
-  max-width: 100vw;
-  max-height: 100vh;
+  max-width: 200vw;
+  max-height: 200vh;
   object-fit: contain;
 }
 
