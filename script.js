@@ -3,3 +3,15 @@ document.getElementById('mode-switch').addEventListener('change', function () {
     document.getElementById('mode-label').innerText = this.checked ? '🌙' : '☀️';
 });
 
+  function initializeImageEnlargement() {
+    const enlargeableImages = document.querySelectorAll('.enlargeable-image');
+
+    enlargeableImages.forEach(image => {
+      image.addEventListener('click', () => {
+        image.classList.toggle('enlarged');
+      });
+    });
+  }
+
+  // Call the function to initialize the image enlargement
+  initializeImageEnlargement();
