@@ -357,17 +357,8 @@ body.night-mode::before {
     background-color: #222; /* Night mode background color */
 }
 
-.enlargeable-image {
-  cursor: pointer;
-}
-
-.enlargeable-image-overlay {
-  display: none;
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: rgba(0, 0, 0, 0.8);
-  z-index: 1000;
+.enlargeable-image img.enlarged {
+    max-width: 150vw;
+    max-height: 150vh;
+    object-fit: cover;
 }
