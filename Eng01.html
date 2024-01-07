@@ -64,4 +64,24 @@
     </div>
 
     <script src="script.js"></script>
+    
+<button id="read-aloud-button">Read Aloud</button>
+
+<script>
+    document.getElementById('read-aloud-button').addEventListener('click', function () {
+        var allText = getAllTextContent();
+        var msg = new SpeechSynthesisUtterance(allText);
+        window.speechSynthesis.speak(msg);
+    });
+
+    function getAllTextContent() {
+        // Select all text-containing elements on the page
+        var textElements = document.querySelectorAll('p, h1, h2, h3, h4, h5, h6, span, div, a, li, td');
+        
+        // Extract text content from each element
+        var allText = Array.from(textElements).map(element => element.textContent).join(' ');
+
+        return allText;
+    }
+</script>
 </body>
