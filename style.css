@@ -356,28 +356,3 @@ body.night-mode::before {
     height: 20px; /* Adjust the height as needed */
     background-color: #222; /* Night mode background color */
 }
-
-/* Add this to your existing CSS */
-#audio-toggle {
-    position: fixed;
-    bottom: 20px;
-    left: 20px;
-    display: flex;
-    align-items: center;
-    color: #fff;
-}
-
-#audio-icon {
-    margin-right: 10px;
-}
-
-/* Adjust the switch size if needed */
-#audio-toggle .switch {
-    width: 50px;
-    height: 28px;
-}
-
-/* Adjust the icon size if needed */
-#audio-toggle #audio-icon {
-    font-size: 18px;
-}
