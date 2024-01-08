@@ -363,8 +363,5 @@ body.night-mode::before {
     left: 20px;
     right: 20px;
     bottom: 20px;
-    margin: auto;
-    z-index: 1000;
-    background: rgba(0, 0, 0, 0.8); /* semi-transparent black background */
-    overflow: auto;
+    overflow: center;
 }
