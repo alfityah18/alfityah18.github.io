@@ -7,11 +7,12 @@ document.getElementById('mode-switch').addEventListener('change', function () {
     const enlargeableImages = document.querySelectorAll('.enlargeable-image');
 
     enlargeableImages.forEach(image => {
-      image.addEventListener('click', () => {
-        image.classList.toggle('enlarged');
-      });
+        image.addEventListener('click', () => {
+            document.body.classList.toggle('enlarge-image');
+            image.classList.toggle('enlarged');
+        });
     });
-  }
+}
 
-  // Call the function to initialize the image enlargement
-  initializeImageEnlargement();
+// Call the function to initialize the image enlargement
+initializeImageEnlargement();
