@@ -8,7 +8,6 @@ document.getElementById('mode-switch').addEventListener('change', function () {
 
     enlargeableImages.forEach(image => {
         image.addEventListener('click', () => {
-            document.body.classList.toggle('enlarge-image');
             image.classList.toggle('enlarged');
         });
     });
