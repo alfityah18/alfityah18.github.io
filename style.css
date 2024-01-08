@@ -357,8 +357,8 @@ body.night-mode::before {
     background-color: #222; /* Night mode background color */
 }
 
-.enlargeable-image.enlarged {
-    position: absolute;
+body.enlarge-image .enlargeable-image.enlarged {
+    position: fixed;
     width: auto;
     height: auto;
     max-width: 90%;
