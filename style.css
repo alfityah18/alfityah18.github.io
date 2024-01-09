@@ -349,14 +349,6 @@ input:checked + .slider:before {
     margin-left: 10px;
 }
 
-/* Top border style */
-body.night-mode::before {
-    content: "";
-    display: block;
-    height: 20px; /* Adjust the height as needed */
-    background-color: #222; /* Night mode background color */
-}
-
 body.enlarge-image .enlargeable-image {
     position: fixed;
     top: 0;
