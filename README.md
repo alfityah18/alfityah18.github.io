@@ -7,7 +7,7 @@
 <body class="front-page">
     <img src="images/logo.png" alt="Logo description">
     <div class="separator">
-        <span class="separator-text">"And hold firmly to the rope of Allah all together, and do not be divided."</span>
+        <span class="separator-text">“And hold firmly to the rope of Allah all together, and do not be divided.”</span>
     </div>
     <div id="language-buttons">
         <button id="english-button">English</button>
