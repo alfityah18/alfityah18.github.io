@@ -88,6 +88,10 @@ h4 {
     font-size: 15px !important;
 }
 
+.small-word {
+    font-size: 15px;
+}
+
 .centered-paragraph {
     text-align: center;
 }
