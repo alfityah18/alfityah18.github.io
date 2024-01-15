@@ -83,6 +83,11 @@ h4 {
     font-size: 15px;
 }
 
+.small-text-left {
+    text-align: left;
+    font-size: 15px;
+}
+
 .centered-paragraph {
     text-align: center;
 }
