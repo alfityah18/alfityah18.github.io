@@ -375,8 +375,8 @@ body.enlarge-image .enlargeable-image {
 }
 
 #animated-gif {
-    width: 7%;
-    max-width: 40px;
+    width: 10%;
+    max-width: 50px;
     margin: auto;
     display: block;
 }
