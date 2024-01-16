@@ -373,3 +373,8 @@ body.enlarge-image .enlargeable-image {
     z-index: 1000;
     background: rgba(0, 0, 0, 0.8); /* semi-transparent black background */
 }
+
+#animated-gif {
+    width: 50%;
+    max-width: 200px;
+}
