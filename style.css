@@ -378,4 +378,5 @@ body.enlarge-image .enlargeable-image {
     width: 10%;
     max-width: 50px;
     margin: auto;
+    display: block;
 }
