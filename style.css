@@ -96,6 +96,11 @@ h4 {
     text-align: center;
 }
 
+.tiny-indicator{
+    text-align: center;
+    font-size: 12px !important;
+}
+
 em {
     font-family: 'Charter Italic', sans-serif;
 }
