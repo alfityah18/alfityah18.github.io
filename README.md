@@ -18,7 +18,7 @@
             <img src="images/logo_instagram.png" alt="Instagram Icon">
         <a href="https://www.tiktok.com/@alfityah18?_t=8oTk611Lyt7&_r=1" target="_blank">
             <img src="images/logo_tiktok.png" alt="Instagram Icon">
-            <a href="youtube://www.youtube.com/alfityah18/about" target="_blank">
+            <a href="youtube://www.youtube.com/@alfityah18" target="_blank">
             <img src="images/logo_youtube.png" alt="Instagram Icon">
         </a>
         <div class="additional-content">
