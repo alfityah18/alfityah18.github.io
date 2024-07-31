@@ -15,7 +15,7 @@
     </div>
     <div id="social-links">
         <a href="https://www.instagram.com/alfityah18" target="_blank">
-            <img src="images/insta.png" alt="Instagram Icon">
+            <img src="images/logo_instagram.png" alt="Instagram Icon">
         </a>
         <div class="additional-content">
             <img id="additional-image" src="images/pd.png" alt="Additional Image">
