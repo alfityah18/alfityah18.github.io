@@ -14,7 +14,7 @@
         <button id="bahasa-button">Bahasa</button>
     </div>
     <div id="social-links">
-        <a href="instagram://user?alfityah18=instagram" target="_blank">
+        <a href="https://www.instagram.com/alfityah18/" target="_blank">
             <img src="images/logo_instagram.png" alt="Instagram Icon">
         <a href="https://www.tiktok.com/@alfityah18?_t=8oTk611Lyt7&_r=1" target="_blank">
             <img src="images/logo_tiktok.png" alt="Instagram Icon">
