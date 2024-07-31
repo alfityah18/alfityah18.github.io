@@ -18,8 +18,6 @@
             <img src="images/logo_instagram.png" alt="Instagram Icon"></a>
         <a href="https://www.tiktok.com/@alfityah18?_t=8oTk611Lyt7&_r=1" target="_blank">
             <img src="images/logo_tiktok.png" alt="Instagram Icon"></a>
-        <a href="https://x.com/alfityah18?t=1MuEbyfYnab_G9kpc6wI4A&s=09" target="_blank">
-            <img src="images/logo_x.png" alt="Instagram Icon"></a>
         <a href="https://www.youtube.com/@alfityah18" target="_blank">
             <img src="images/logo_youtube.png" alt="Instagram Icon"></a>
         <div class="additional-content">
