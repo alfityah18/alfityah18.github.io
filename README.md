@@ -16,8 +16,6 @@
     <div id="social-links">
         <a href="https://www.tiktok.com/@alfityah18?_t=8oTk611Lyt7&_r=1" target="_blank">
             <img src="images/logo_tiktok.png" alt="Instagram Icon"></a>
-        <a href="https://www.youtube.com/@alfityah18" target="_blank">
-            <img src="images/logo_youtube.png" alt="Instagram Icon"></a>
         <div class="additional-content">
             <img id="additional-image" src="images/pd.png" alt="Additional Image">
             <p class="additional-text">Public Domain. Anything in this public domain is freely usable by anyone without obtaining permission and without citing the original author, but no one can ever own this.</p>
