@@ -80,12 +80,16 @@ h4 {
 
 .poem {
     font-family: 'Georgia', serif;
-    font-size: 14px;
+    font-size: 15px;
     font-style: italic;
     text-align: center;
-    line-height: 1.1;
-    margin: 0;
+    line-height: 1.2; /* Keeps lines close together */
+    margin: 0; /* No extra space between lines */
     padding: 0;
+}
+
+.poem + .poem {
+    margin-top: 15px; /* Adds spacing between stanzas */
 }
 
 .small-text {
