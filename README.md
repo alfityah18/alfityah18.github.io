@@ -18,7 +18,7 @@
             <img src="images/logo_tiktok.png" alt="Instagram Icon"></a>
         <div class="additional-content">
             <img id="additional-image" src="images/pd.png" alt="Additional Image">
-            <p class="additional-text">Public Domain. Anything in this public domain is freely usable by anyone without obtaining permission and without citing the original author, but no one can ever own this.</p>
+            <p class="additional-text">Public Domain. Anything in this public domain is freely usable by anyone without obtaining permission and without citing the original author, but no one can ever own this. Knowledge is not for sale.</p>
             <p class="additional-text">Optimized for phones & tablets in portrait mode.</p>
         </div>
     </div> <!-- Closing div for social-links -->
