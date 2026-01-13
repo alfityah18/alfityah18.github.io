@@ -10,8 +10,8 @@
         <span class="separator-text">“And hold firmly to the rope of Allah all together, and do not be divided.”</span>
     </div>
     <div id="language-buttons">
-        <button id="english-button">English</button>
-        <button id="bahasa-button">Bahasa</button>
+        <button id="english-button">Spektrum in English</button>
+        <button id="bahasa-button">Spektrum in Malay</button>
     </div>
     <div id="social-links">
         <a href="https://www.tiktok.com/@alfityah18?_t=8oTk611Lyt7&_r=1" target="_blank">
