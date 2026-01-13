@@ -393,24 +393,3 @@ body.enlarge-image .enlargeable-image {
     margin: auto;
     display: block;
 }
-
-body {
-    margin: 0;
-    padding: 16px;
-}
-
-.list-wrapper {
-    max-height: 55vh;   /* ≈ shows about 7 items on phone */
-    overflow-y: auto;
-    margin-top: 20px;
-}
-
-ul {
-    padding-left: 0;
-    list-style: none;
-}
-
-li {
-    padding: 10px 0;
-    border-bottom: 1px solid #ddd;
-}
