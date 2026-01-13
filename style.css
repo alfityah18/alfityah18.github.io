@@ -393,3 +393,10 @@ body.enlarge-image .enlargeable-image {
     margin: auto;
     display: block;
 }
+
+.list-wrapper {
+    max-height: 55vh;  /* adjust as needed to show 7 items */
+    overflow-y: auto;
+    margin-top: 20px;
+    padding-right: 8px;
+}
