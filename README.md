@@ -11,7 +11,7 @@
     </div>
     <div id="language-buttons">
         <button id="english-button">English</button>
-        <button id="bahasa-button">Melayu</button>
+        <button id="bahasa-button">B. Melayu</button>
     </div>
     <div id="social-links">
         <a href="https://www.tiktok.com/@alfityah18?_t=8oTk611Lyt7&_r=1" target="_blank">
