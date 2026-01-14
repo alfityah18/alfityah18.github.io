@@ -16,7 +16,7 @@
     <div id="social-links">
         <a href="https://www.tiktok.com/@alfityah18?_t=8oTk611Lyt7&_r=1" target="_blank">
             <img src="images/logo_tiktok.png" alt="Instagram Icon"></a>
-        <a href="https://www.youtube.com/@YOURCHANNEL" target="_blank">
+        <a href="https://www.youtube.com/@alfityah18" target="_blank">
         <img src="images/logo_youtube.png" alt="YouTube"></a>
         <div class="additional-content">
             <img id="additional-image" src="images/pd.png" alt="Additional Image">
