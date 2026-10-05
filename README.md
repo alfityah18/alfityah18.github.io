@@ -10,8 +10,7 @@
         <span class="separator-text">“And hold firmly to the rope of Allah all together, and do not be divided.”</span>
     </div>
     <div id="language-buttons">
-        <button id="english-button">English</button>
-        <button id="bahasa-button">Melayu</button>
+        <button id="bahasa-button">Spektrum</button>
     </div>
     <div id="social-links">
         <a href="https://www.tiktok.com/@alfityah18?_t=8oTk611Lyt7&_r=1" target="_blank">
@@ -20,17 +19,13 @@
         <img src="images/logo_youtube.png" alt="YouTube"></a>
         <div class="additional-content">
             <img id="additional-image" src="images/pd.png" alt="Additional Image">
-            <p class="additional-text">Public Domain. Anything in this public domain is freely usable by anyone without obtaining permission and without citing the original author, but no one can ever own this. Knowledge is not for sale.</p>
-            <p class="additional-text">Optimized for phones & tablets in portrait mode.</p>
+            <p class="additional-text">Domain Awam. Apa-apa sahaja dalam domain awam ini boleh digunakan dengan bebas oleh sesiapa sahaja tanpa perlu mendapatkan kebenaran dan tanpa perlu memetik pengarang asal, namun tiada sesiapa pun yang boleh memiliki hak ke atasnya. Ilmu bukan untuk dijual.</p>
+            <p class="additional-text">Dioptimumkan untuk telefon dan tablet dalam mod potret.</p>
         </div>
     </div> <!-- Closing div for social-links -->
 
 <script>
-        document.getElementById('english-button').addEventListener('click', function () {
-    window.location.href = 'english.html';
-});
-
-document.getElementById('bahasa-button').addEventListener('click', function () {
+        document.getElementById('bahasa-button').addEventListener('click', function () {
     window.location.href = 'bahasa.html';
 });
 </script> 
