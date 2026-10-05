@@ -26,7 +26,7 @@
 
 <script>
         document.getElementById('bahasa-button').addEventListener('click', function () {
-    window.location.href = 'bahasa.html';
+    window.location.href = 'spektrum.html';
 });
 </script> 
 </body>
