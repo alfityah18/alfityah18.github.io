@@ -21,7 +21,7 @@
             <img id="additional-image" src="images/pd.png" alt="Additional Image">
             <p class="additional-text">Domain Awam. Apa-apa sahaja dalam domain awam ini boleh digunakan dengan bebas oleh sesiapa sahaja tanpa perlu mendapatkan kebenaran dan tanpa perlu memetik pengarang asal, namun tiada sesiapa pun yang boleh memiliki hak ke atasnya. Ilmu bukan untuk dijual.</p>
             <p class="additional-text">Dioptimumkan untuk telefon dan tablet dalam mod potret.</p>
-            <p class="additional-text">alfityah18 ialah nama laman web dan saluran media sosial, Mohd bin Mohd ialah nama pengarang, dan Spektrum ialah nama siri artikel tentang ilmu fitan.</p>
+            <p class="additional-text">alfityah18 ialah nama laman web dan saluran media sosial. Mohd bin Mohd ialah nama pengarang. Spektrum ialah nama siri artikel tentang ilmu fitan.</p>
         </div>
     </div> <!-- Closing div for social-links -->
 
